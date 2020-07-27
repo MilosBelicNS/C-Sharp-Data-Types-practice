@@ -1,0 +1,6 @@
+D:\Software development\Algorithms\Practise, Exercises, Solution\C Sharp Basic Data Types\bin\Debug\C Sharp Basic Data Types.exe.config
+D:\Software development\Algorithms\Practise, Exercises, Solution\C Sharp Basic Data Types\bin\Debug\C Sharp Basic Data Types.exe
+D:\Software development\Algorithms\Practise, Exercises, Solution\C Sharp Basic Data Types\bin\Debug\C Sharp Basic Data Types.pdb
+D:\Software development\Algorithms\Practise, Exercises, Solution\C Sharp Basic Data Types\obj\Debug\C Sharp Basic Data Types.csprojAssemblyReference.cache
+D:\Software development\Algorithms\Practise, Exercises, Solution\C Sharp Basic Data Types\obj\Debug\C Sharp Basic Data Types.exe
+D:\Software development\Algorithms\Practise, Exercises, Solution\C Sharp Basic Data Types\obj\Debug\C Sharp Basic Data Types.pdb
